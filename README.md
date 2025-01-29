@@ -1,3 +1,4 @@
+<img src="https://nodejs.org/en"/>
 # Event Management Project
 
 I am working on developing an Event Management project, which is a web application aimed at applying my skills in Node.js and MongoDB. The project focuses on building an attractive user interface and a robust 
