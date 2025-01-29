@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://nodejs.org/en" target="_blank" style="border:2px solid white">
+  <a href="https://nodejs.org/en" target="_blank" style="border: 4px solid white; padding: 10px; margin: 10px 0;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1200px; height: 215px; margin: 0.5px 0px; width: 351px;" alt="Node.js - Wikipedia" jsname="kn3ccd" aria-hidden="false">
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
