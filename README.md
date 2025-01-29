@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNode.js&psig=AOvVaw2mZ9wRdFl6x80zJq75OEX_&ust=1738272129305000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjqmLvum4sDFQAAAAAdAAAAABAE" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1200px; height: 215px; margin: 0.5px 0px; width: 351px;" alt="Node.js - Wikipedia" jsname="kn3ccd" aria-hidden="false">
 
 # Event Management Project
 
