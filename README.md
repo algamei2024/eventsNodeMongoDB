@@ -1,8 +1,8 @@
-<p align="center">
-  <a href="https://nodejs.org/en" target="_blank" style="margin-right:10px;">
+<p style="display:filex; justify-content:space-between;">
+  <a href="https://nodejs.org/en" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1200px; height: 215px; margin: 0.5px 0px; width: 351px;" alt="Node.js - Wikipedia" jsname="kn3ccd" aria-hidden="false">
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" style="margin-left:10px;">
+  <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://s3.amazonaws.com/info-mongodb-com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1200px; height: 207px; margin: 0px; width: 413px;" alt="Download MongoDB Community Server | MongoDB" jsname="kn3ccd" aria-hidden="false">
   </a>
 </p>
