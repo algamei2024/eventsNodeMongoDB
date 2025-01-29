@@ -1,10 +1,10 @@
-#Event Management Project
+# Event Management Project
 
 I am working on developing an Event Management project, which is a web application aimed at applying my skills in Node.js and MongoDB. The project focuses on building an attractive user interface and a robust 
 
 backend for efficiently managing events.
 
-#Project Goals:
+# Project Goals:
 
 Applying Node.js Techniques: I use Node.js as the backend to build a fast and scalable server, helping to process requests efficiently.
 
@@ -12,7 +12,7 @@ Utilizing MongoDB: I leverage MongoDB as a NoSQL database to store event and use
 
 Learning User Interface Design: Using libraries like Bootstrap and EJS, I am designing an interactive interface that enhances the user experience.
 
-##Libraries Used:
+## Libraries Used:
 
 **axios**: For making HTTP requests to communicate with the API.
 
@@ -42,7 +42,7 @@ Learning User Interface Design: Using libraries like Bootstrap and EJS, I am des
 
 **passport and passport-local**: For providing a secure login system for users.
 
-##Features:
+## Features:
 
 Create, edit, and delete events.
 
