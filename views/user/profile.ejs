@@ -1,0 +1,25 @@
+<%-include('../partials/header.ejs')-%>
+<%-include('../partials/navbar.ejs')-%>
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            <img src="<%='/images/'+user.avatar%>" alt="profile" class="rounded-circle m-2 border border-4 border-black w-100 h-100">
+        </div>
+        <div class="col-md-9 offset-md-3">
+            <h1 class="display-4">Profile</h1>
+            <hr>
+            <%-include('../partials/flashMessages.ejs')-%>
+            <% if(user){%>
+                welcome your email is <%= user.email%>
+            <%}%>
+        </div>
+        <form action="/users/uploadAvatar" method="post" enctype="multipart/form-data">
+            <input type="file" name="avatar" id="avatar" onchange="readURL(this)">
+            <button type="submit" class="btn btn-primary">Upload</button>
+        </form>
+        <hr>
+        <h1 class="display-4">Image Preview</h1>
+        <img src="#" alt="" id="imagePlaceholder" height="200px" width="200px" style="display: none;">
+    </div>
+</div>
+<%-include('../partials/footer.ejs')-%>
