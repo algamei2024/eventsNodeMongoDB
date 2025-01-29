@@ -54,4 +54,4 @@ A comprehensive security system to protect user data.
 
 I consider this project a great opportunity to apply what I've learned and enhance my programming skills, preparing me for future projects.
 
-My web site: <a href="https://algameisoft.66ghz.com/" >الجعمي سوفت</a>
+My web site: <a href="https://algameisoft.66ghz.com/" target="_blank">الجعمي سوفت</a>
